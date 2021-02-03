@@ -3,11 +3,12 @@
 
 ## Overview of Project
 
-Amazing Prime Video Team would like to develop an algorithm that will automate a data pipeline for movies slated, primarily low-budget movies, for release so in turn, they can plan to purchase the streaming rights.
+AAmazing Prime Video Team would like to develop an algorithm that will automate a data pipeline for movies slated, primarily low-budget movies, for release so in turn, they can plan to purchase the streaming rights.
 
-To boost morale amongst the team and connect with the local coding community, Amazing Prime Video has decided to host a hackathon. Only except the data needed, requires some extensive _"wrangling"_ for participants use. 
+To boost morale amongst the team and connect with the local coding community, Amazing Prime Video has decided to host a hackathon. Only except the data needed, requires some extensive _"wrangling"_ for participants use.
 
- An extract, transform, and load (or ETL) analysis was performed to scrape, clean, and present the former dataset into two seperate uniformed SQL database of over 6,000 movies releases and  26 million reviews/ratings since 1990. 
+An extract, transform, and load (or ETL) analysis was performed to scrape, clean, and present the former dataset into two separate uniformed SQL database of over 6,000 movies releases and 26 million reviews/ratings since 1990.
+
 
 
 ## Resources
@@ -20,9 +21,10 @@ To boost morale amongst the team and connect with the local coding community, Am
 
 
 ## Summary
-Sucessfully, created an automated script that can be used to routinely pull data at desired frequency, i.e., daily. 
+Successfully, created an automated script that can be used to routinely pull data at desired frequency, i.e., daily.
 
-As seen, capture images of "movie_data" database creation, and subsquent tables. 
+As seen, capture images of _"movie_data" _database creation, with subsequent tables.
+
 
 <p align="center">
   <i><b>"movies" Table/Database, PostgreSQL</b></i> 

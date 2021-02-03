@@ -7,7 +7,7 @@ Amazing Prime Video Team would like to develop an algorithm that will automate a
 
 To boost morale amongst the team and connect with the local coding community, Amazing Prime Video has decided to host a hackathon. Only except the data needed, requires some extensive _"wrangling"_ for participants use. 
 
- An extract, transform, and load (or ETL) analysis was performed to scrape, clean, and present the former dataset into two sepperate uniformed SQL database of over 6,000 movies releases and  26 million reviews/ratings since 1990. 
+ An extract, transform, and load (or ETL) analysis was performed to scrape, clean, and present the former dataset into two seperate uniformed SQL database of over 6,000 movies releases and  26 million reviews/ratings since 1990. 
 
 
 ## Resources

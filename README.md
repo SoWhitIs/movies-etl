@@ -23,7 +23,7 @@ An extract, transform, and load (or ETL) analysis was performed to scrape, clean
 ## Summary
 Successfully, created an automated script that can be used to routinely pull data at desired frequency, i.e., daily.
 
-As seen, capture images of _"movie_data" _database creation, with subsequent tables.
+As seen, capture images of _"movie_data"_ database creation, with subsequent tables.
 
 
 <p align="center">

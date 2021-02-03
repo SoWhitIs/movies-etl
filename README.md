@@ -22,7 +22,7 @@ To boost morale amongst the team and connect with the local coding community, Am
 ## Summary
 Sucessfully, created an automated script that can be used to routinely pull data at desired frequency, i.e., daily. 
 
-As seen, capture of images "movie_data" database creation, and subsquent tables. 
+As seen, capture images of "movie_data" database creation, and subsquent tables. 
 
 <p align="center">
   <i><b>"movies" Table/Database, PostgreSQL</b></i> 

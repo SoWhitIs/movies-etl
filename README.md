@@ -3,7 +3,7 @@
 
 ## Overview of Project
 
-AAmazing Prime Video Team would like to develop an algorithm that will automate a data pipeline for movies slated, primarily low-budget movies, for release so in turn, they can plan to purchase the streaming rights.
+Amazing Prime Video Team would like to develop an algorithm that will automate a data pipeline for movies slated, primarily low-budget movies, for release so in turn, they can plan to purchase the streaming rights.
 
 To boost morale amongst the team and connect with the local coding community, Amazing Prime Video has decided to host a hackathon. Only except the data needed, requires some extensive _"wrangling"_ for participants use.
 

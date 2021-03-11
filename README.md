@@ -12,7 +12,8 @@ An extract, transform, and load (or ETL) analysis was performed to scrape, clean
 
 
 ## Resources
-* Data Sources: Wikipedia (movie) data, Kaggle metadata, MovieLens rating data
+* Data Sources: Wikipedia (movie) data, Kaggle metadata, MovieLens rating data 
+   * Due to file size limitations GitHub,  dataset used for this analysis can be viewed and accessed,[here.](https://app.box.com/s/vlooc34gtqicjo55zxu8ake56xg57iqm)
 
 * Software: Visual Studio Code, 1.52. 1 | Python 3.7.6 64-bit  | Python Libaries: Pandas, Numpy, Regular Expression (RegEX), Pacakage(s): psycopg2-binary | Microsoft Excel | PostgreSQL, 11 | pgAdmin, 4.29 | Jupyter Notebook** 
 

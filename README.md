@@ -17,7 +17,7 @@ An extract, transform, and load (or ETL) analysis was performed to scrape, clean
 
 * Software: Visual Studio Code, 1.52. 1 | Python 3.7.6 64-bit  | Python Libaries: Pandas, Numpy, Regular Expression (RegEX), Pacakage(s): psycopg2-binary | Microsoft Excel | PostgreSQL, 11 | pgAdmin, 4.29 | Jupyter Notebook** 
 
-    * Data Access: Workaround, [Project Jupyter: jupyter nbviewer](https://nbviewer.jupyter.org/), a Jupytner Notebook renderer **
+    * Data Access: Workaround, [Project Jupyter: jupyter nbviewer](https://nbviewer.jupyter.org/), a Jupyter Notebook renderer **
      * Data may not display properly on GitHub, please use provided workaround
 
 
